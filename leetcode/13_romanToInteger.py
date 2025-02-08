@@ -38,6 +38,5 @@ def romanToInt(s):
     print(f"Final sum: {sum}")
     return sum
 
-print(romanToInt("III"))
 print(romanToInt("LVIII"))
 print(romanToInt("MCMXCIV"))
